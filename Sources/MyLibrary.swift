@@ -1,3 +1,5 @@
-public func hiThere() -> String {
-  return "Hello from the library!"
+public class HiThere {
+    public func hiThere() -> String {
+        return String("Hello from the library!")
+    }
 }
