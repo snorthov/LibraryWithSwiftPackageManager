@@ -10,7 +10,6 @@ let package = Package(
     targets: [
         .target(
             name: "MyLibrary",
-            dependencies: [],
-            path: "Sources")
+            dependencies: [])
     ]
 )
